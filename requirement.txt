@@ -1,0 +1,17 @@
+unstructured
+tiktoken
+pinecone-client
+pypdf
+openai
+langchain
+pandas 
+numpy
+python-dotenv
+langchain-community
+pinecone
+langchain-core
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
